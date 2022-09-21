@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayCarpenterIII
 - 🌱 I’m currently learning machine learning techniques and econometrics.
-- 💞️ I currently attend UNC Chapel Hill and work at the Woodstock Institute as a research fellow/data analyst.
+- 💞️ I attend UNC Chapel Hill and am working toward a B.S in Economics with a minor in Data Science.
 
 <!---
 RayCarpenterIII/RayCarpenterIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
